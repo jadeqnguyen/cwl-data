@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import sklearn
 
 dataset_1 = pd.read_csv('vgsales.csv')
 dataset_2 = pd.read_csv('vgsales-12-4-2019-short.csv')
