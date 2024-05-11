@@ -25,4 +25,4 @@ dataset_3 = pd.read_csv('vgsales-12-4-2019.csv')
 # #        'Vgchartzscore', 'img_url'],
 # #       dtype='object')
 
-print(dataset_2.describe())
+print(dataset_3.describe())
